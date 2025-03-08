@@ -4,6 +4,8 @@ Welcome to the preview repository for 8thDegree, an AI-powered freelancing platf
 
 🔗 [View Live Preview](https://fairgigai.github.io/8thdegree-preview)
 
+![Screenshot 2025-03-08 081727](https://github.com/user-attachments/assets/499a1d38-cc0c-407b-8e58-9e25a8b33979)
+
 ## Features
 
 ### 🤖 AI-Powered Matching
